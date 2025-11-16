@@ -46,3 +46,16 @@ $ git log --graph : If you want to see the visual history of the commmit.
 
 $ git reflog : If you want to show the reference of all the commit.
 ...
+
+### Part 2: Branching Basics (10 Challenges)
+
+...bash
+
+$ git branch <branch-name> : If you want to create a new branch.
+
+$ git checkout <branch-name>: If you want to switch to another branch.
+
+$ git checkout -b <branch-name>: If you want to create and switch to a new branch.
+
+
+...
